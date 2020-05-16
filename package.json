@@ -1,0 +1,22 @@
+{
+  "name": "poppybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "run": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mongoose": "^5.7.19",
+    "@types/node": "^14.0.1",
+    "colors": "^1.4.0",
+    "discord.js": "git+https://github.com/Sardonyx78/discord.js.git",
+    "mongoose": "^5.9.13"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.2"
+  }
+}
