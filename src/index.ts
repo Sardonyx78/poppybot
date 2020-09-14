@@ -17,4 +17,4 @@ client.on("*", function (this: any) {
 
 
 
-client.login("NjcwNTc4NjA1MjEzODc2MjM2.Xrvy3w.UDy6kKHXWZewUvkLDlaJwfF5dtM")
+client.login("token")
